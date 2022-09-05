@@ -1,0 +1,22 @@
+[
+  {
+    "package": "linelist",
+    "url": "https://github.com/epiverse-trace/linelist"
+  },
+  {
+    "package": "readepi",
+    "url": "https://github.com/epiverse-trace/readepi"
+  },
+  {
+    "package": "epiparameter",
+    "url": "https://github.com/epiverse-trace/epiparameter"
+  },
+  {
+    "package": "datadelay",
+    "url": "https://github.com/epiverse-trace/datadelay"
+  },
+  {
+    "package": "finalsize",
+    "url": "https://github.com/epiverse-trace/finalsize"
+  },
+]
