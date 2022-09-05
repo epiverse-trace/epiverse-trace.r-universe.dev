@@ -1,0 +1,37 @@
+name: Validate JSONs
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: r-lib/actions/setup-r@v1
+        with:
+          use-public-rspm: true
+
+      - name: Install V8
+        run: sudo apt install libv8-dev
+
+      - name: Install jsonvalidate
+        run: |
+          Rscript -e 'install.packages("jsonvalidate")'
+
+      - name: Validate packages.json
+        run: |
+          jsonvalidate::json_validate(
+            "packages.json",
+            "schema.json",
+            engine = "ajv",
+            error = TRUE
+          )
+        shell: Rscript {0}
+
