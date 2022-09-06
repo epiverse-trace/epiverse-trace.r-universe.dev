@@ -1,6 +1,7 @@
 name: Add new packages
 
 on:
+  workflow_dispatch:
   schedule:
     - cron:  '37 2 * * *'
 
