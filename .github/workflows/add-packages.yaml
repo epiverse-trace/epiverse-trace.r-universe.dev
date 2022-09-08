@@ -23,7 +23,7 @@ jobs:
 
       - name: Add new R packages to packages.json
         run: |
-          gh::gh("/orgs/{org}/repos", org = "${{ github.repository.owner }}", type = "public") |> 
+          gh::gh("/orgs/{org}/repos", org = Sys.getenv("GITHUB_REPOSITORY_OWNER"), type = "public") |> 
             purrr::map_chr("full_name") |> 
             purrr::set_names() |> 
             purrr::map(
