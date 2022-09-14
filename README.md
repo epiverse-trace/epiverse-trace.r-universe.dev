@@ -29,8 +29,8 @@ or to add the `epiverse-trace` universe to their `.Rprofile`:
 ```r
 options(
   repos = c(
-    epiverse-trace = 'https://epiverse-trace.r-universe.dev',
-    CRAN = 'https://cloud.r-project.org'
+    "epiverse-trace" = "https://epiverse-trace.r-universe.dev",
+    "CRAN" = "https://cloud.r-project.org"
   )
 )
 ```
