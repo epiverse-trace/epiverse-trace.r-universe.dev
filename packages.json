@@ -18,5 +18,9 @@
   {
     "package": "readepi",
     "url": "https://github.com/epiverse-trace/readepi"
+  },
+  {
+    "package": "epiversedashboard",
+    "url": "https://github.com/epiverse-trace/epiversedashboard"
   }
 ]
