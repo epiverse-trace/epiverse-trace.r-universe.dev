@@ -18,5 +18,9 @@
   {
     "package": "readepi",
     "url": "https://github.com/epiverse-trace/readepi"
+  },
+  {
+    "package": "sivirep",
+    "url": "https://github.com/epiverse-trace/sivirep"
   }
 ]
