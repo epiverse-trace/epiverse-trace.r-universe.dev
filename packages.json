@@ -24,7 +24,7 @@
     "url": "https://github.com/epiverse-trace/sivirep"
   },
   {
-    "package": "soap",
-    "url": "https://github.com/epiverse-trace/data_pipelines"
+    "package": "episoap",
+    "url": "https://github.com/epiverse-trace/episoap"
   }
 ]
