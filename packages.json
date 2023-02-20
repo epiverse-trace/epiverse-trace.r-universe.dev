@@ -26,5 +26,9 @@
   {
     "package": "episoap",
     "url": "https://github.com/epiverse-trace/episoap"
+  },
+  {
+    "package": "bpmodels",
+    "url": "https://github.com/epiverse-trace/bpmodels"
   }
 ]
