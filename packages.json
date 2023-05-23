@@ -30,5 +30,9 @@
   {
     "package": "bpmodels",
     "url": "https://github.com/epiverse-trace/bpmodels"
+  },
+  {
+    "package": "serofoi",
+    "url": "https://github.com/epiverse-trace/serofoi"
   }
 ]
