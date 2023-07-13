@@ -34,5 +34,13 @@
   {
     "package": "serofoi",
     "url": "https://github.com/epiverse-trace/serofoi"
+  },
+  {
+    "package": "epidemics",
+    "url": "https://github.com/epiverse-trace/epidemics"
+  },
+  {
+    "package": "scenarios",
+    "url": "https://github.com/epiverse-trace/scenarios"
   }
 ]
