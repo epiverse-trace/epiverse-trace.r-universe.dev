@@ -3,7 +3,11 @@
 [![Current status of Epiverse-TRACE R-universe](https://epiverse-trace.r-universe.dev/badges/:registry)](https://github.com/r-universe/epiverse-trace)
 [![Total number of packages on Epiverse-TRACE R-universe](https://epiverse-trace.r-universe.dev/badges/:total)](https://epiverse-trace.r-universe.dev/)
 
-### Note to @epiverse-trace team members
+## Package inclusion policy
+
+In an attempt to clarify Epiverse-TRACE packages' lifecycle and to avoid encouraging users to rely on unstable packages, only packages with at least one GitHub release can be added to the r-universe.
+
+## Note to @epiverse-trace team members
 
 The file [`packages.json`](packages.json) contains a list of packages that will be automatically built and made available on https://epiverse-trace.r-universe.dev/, including binaries for the relevant platforms.
 
