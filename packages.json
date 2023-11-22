@@ -19,9 +19,5 @@
   {
     "package": "superspreading",
     "url": "https://github.com/epiverse-trace/superspreading"
-  },
-  {
-    "package": "epidemics",
-    "url": "https://github.com/epiverse-trace/epidemics"
   }
 ]
