@@ -17,8 +17,7 @@
   },
   {
     "package": "serofoi",
-    "url": "https://github.com/epiverse-trace/serofoi",
-    "branch": "fix-r-universe"
+    "url": "https://github.com/epiverse-trace/serofoi"
   },
   {
     "package": "superspreading",
