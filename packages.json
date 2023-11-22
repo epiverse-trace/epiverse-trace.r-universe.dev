@@ -12,6 +12,10 @@
     "url": "https://github.com/epiverse-trace/bpmodels"
   },
   {
+    "package": "cfr",
+    "url": "https://github.com/epiverse-trace/cfr"
+  },
+  {
     "package": "serofoi",
     "url": "https://github.com/epiverse-trace/serofoi",
     "branch": "fix-r-universe"
