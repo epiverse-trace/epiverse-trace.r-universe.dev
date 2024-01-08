@@ -22,5 +22,9 @@
   {
     "package": "superspreading",
     "url": "https://github.com/epiverse-trace/superspreading"
+  },
+  {
+    "package": "simulist",
+    "url": "https://github.com/epiverse-trace/simulist"
   }
 ]
