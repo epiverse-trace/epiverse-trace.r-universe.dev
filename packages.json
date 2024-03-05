@@ -16,6 +16,10 @@
     "url": "https://github.com/epiverse-trace/cfr"
   },
   {
+    "package": "epidemics",
+    "url": "https://github.com/epiverse-trace/epidemics"
+  },
+  {
     "package": "serofoi",
     "url": "https://github.com/epiverse-trace/serofoi"
   },
