@@ -30,5 +30,9 @@
   {
     "package": "simulist",
     "url": "https://github.com/epiverse-trace/simulist"
+  },
+  {
+    "package": "tracetheme",
+    "url": "https://github.com/epiverse-trace/tracetheme"
   }
 ]
