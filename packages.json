@@ -34,5 +34,9 @@
   {
     "package": "tracetheme",
     "url": "https://github.com/epiverse-trace/tracetheme"
+  },
+  {
+    "package": "epiparameter",
+    "url": "https://github.com/epiverse-trace/epiparameter"
   }
 ]
