@@ -38,5 +38,13 @@
   {
     "package": "epiparameter",
     "url": "https://github.com/epiverse-trace/epiparameter"
+  },
+  {
+    "package": "vaccineff",
+    "url": "https://github.com/epiverse-trace/vaccineff"
+  },
+  {
+    "package": "epichains",
+    "url": "https://github.com/epiverse-trace/epichains"
   }
 ]
