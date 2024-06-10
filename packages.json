@@ -46,5 +46,9 @@
   {
     "package": "epichains",
     "url": "https://github.com/epiverse-trace/epichains"
+  },
+  {
+    "package": "readepi",
+    "url": "https://github.com/epiverse-trace/readepi"
   }
 ]
