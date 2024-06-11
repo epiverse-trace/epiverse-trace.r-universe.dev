@@ -50,5 +50,9 @@
   {
     "package": "readepi",
     "url": "https://github.com/epiverse-trace/readepi"
+  },
+  {
+    "package": "numberize",
+    "url": "https://github.com/epiverse-trace/numberize"
   }
 ]
