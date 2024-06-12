@@ -54,5 +54,9 @@
   {
     "package": "numberize",
     "url": "https://github.com/epiverse-trace/numberize"
+  },
+  {
+    "package": "epiCo",
+    "url": "https://github.com/epiverse-trace/epiCo"
   }
 ]
