@@ -8,10 +8,6 @@
     "url": "https://github.com/epiverse-trace/finalsize"
   },
   {
-    "package": "bpmodels",
-    "url": "https://github.com/epiverse-trace/bpmodels"
-  },
-  {
     "package": "cfr",
     "url": "https://github.com/epiverse-trace/cfr"
   },
