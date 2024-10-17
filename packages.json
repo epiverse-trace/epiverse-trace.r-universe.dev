@@ -12,6 +12,10 @@
     "url": "https://github.com/epiverse-trace/cfr"
   },
   {
+    "package": "epichains",
+    "url": "https://github.com/epiverse-trace/epichains"
+  },
+  {
     "package": "epidemics",
     "url": "https://github.com/epiverse-trace/epidemics"
   },
