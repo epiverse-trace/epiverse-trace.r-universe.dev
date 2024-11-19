@@ -52,6 +52,10 @@
     "url": "https://github.com/epiverse-trace/simulist"
   },
   {
+    "package": "sivirep",
+    "url": "https://github.com/epiverse-trace/sivirep"
+  },
+  {
     "package": "superspreading",
     "url": "https://github.com/epiverse-trace/superspreading"
   },
