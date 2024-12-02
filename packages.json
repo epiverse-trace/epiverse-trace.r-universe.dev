@@ -28,6 +28,10 @@
     "url": "https://github.com/epiverse-trace/epiparameter"
   },
   {
+    "package": "epiparameterDB",
+    "url": "https://github.com/epiverse-trace/epiparameterDB"
+  },
+  {
     "package": "finalsize",
     "url": "https://github.com/epiverse-trace/finalsize"
   },
